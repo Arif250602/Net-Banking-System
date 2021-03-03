@@ -1,4 +1,4 @@
-#An Online Net Banking project by T.Sakthivel,T.Ajay Veerabaghu,S.Mohammed Arif
+#An Online Net Banking project by T.Sakthivel, T.Ajay Veerabaghu, S.Mohammed Arif
 import random
 
 names = []
