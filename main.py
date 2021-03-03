@@ -1,6 +1,4 @@
-# Ph length 10 digits
-# Forgot password
-
+#An Online Net Banking project by T.Sakthivel,T.Ajay Veerabaghu,S.Mohammed Arif
 import random
 
 names = []
@@ -15,7 +13,7 @@ def phnochk():
     phno = int(input("Enter Phone number: "))
     chkphno = str(phno)
     if (len(chkphno) == 10):
-        global password ,Pass
+        global password, Pass
         password = input("Enter password: ")
         Pass.append(password)
         print("-----------------")
